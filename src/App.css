@@ -65,4 +65,54 @@
  #aero-name-logo {
     display: none;
   }
+  .check-repair-msg-bar {
+    font-size: small;
+  }
+
+}
+
+
+/* Message Bar */
+
+.check-repair-msg-bar {
+  height: 50px;
+  margin: auto;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+.check-repair-msg-bar-wrap {
+  display: inline-flex
+}
+
+.check-repair-msg-bar-wrap .link-blue-std {
+  justify-self: left;
+  align-self: center;
+}
+.check-repair-msg-bar-wrap p {
+  justify-self: right;
+  padding-right: 10px;
+}
+
+/* Link STD Blue */
+.link-blue-std {
+  text-decoration: none;
+  color: #0057ff;
+}
+.link-blue-std:hover {
+  text-decoration: underline;
+}
+
+
+/* Revision Notes */
+
+.revision-notes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-content: center;
+  justify-content: center;
+}
+#feedback-link-bottom{
+  align-self: center;
 }
