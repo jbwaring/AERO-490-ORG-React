@@ -18,7 +18,9 @@ function App() {
                   </div>
       <div id="revision-notes">
       <h3>Version Notes:</h3>
-      <p>Version 1.0 <br />need to update portraits.</p>
+      <p>Version 1.1 <br />
+      updated org with Tutors, EIR and Coordinator <br/>
+      need to update portraits.</p>
       <a href="mailto:j_warin@live.concordia.ca?subject=Org%20Chart%20Website%20Feedback&body=Version%20Used%3A%0D%0AWhat%20should%20I%20improve%3F%3A" >
       Leave me some feedback!
 </a>

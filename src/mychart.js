@@ -33,20 +33,24 @@ import React, { Component } from 'react';
                             { id: "8", pid: "6",  name: "Gala Licheva", title: "Proof-reader / Connector / Research Specialist", email: "g_lichev@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "9", pid: "6",  name: "Jérémie Lemerre", title: "Formatting / Research Specialist ", email: "j_lemerr@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "10", pid: "20",  name: "Dilkaram Ghuman", title: "SS Lead / research specialist", email: "d_ghuman@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "11", pid: "20",  name: "Richard El Chaar", title: "Coordinator, analyst", email: "r_elchaa@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "12", pid: "20",  name: "Hazen Abou Khadra", title: "Quality controller, Concept Designer", email: "h_aboukh@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "13", pid: "20",  name: "Andrei Kinczler", title: "Quality controller, Concept Designer", email: "a_kinczl@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "14", pid: "20",  name: "Lucas Dimitri", title: "Coordinator, Research Specialist", email: "l_imitri@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "11", pid: "10",  name: "Richard El Chaar", title: "Coordinator, analyst", email: "r_elchaa@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "12", pid: "10",  name: "Hazen Abou Khadra", title: "Quality controller, Concept Designer", email: "h_aboukh@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "13", pid: "10",  name: "Andrei Kinczler", title: "Quality controller, Concept Designer", email: "a_kinczl@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "14", pid: "10",  name: "Lucas Dimitri", title: "Coordinator, Research Specialist", email: "l_imitri@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "15", pid: "18",  name: "Chad Scarsini", title: "Implementer", email: "c_scarsi@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "16", pid: "18",  name: "Siavash Shahkar", title: "Resource Investigator/ Implementer", email: "s_hahkar@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "17", pid: "18",  name: "Araz Pilavdjian", title: "Shaper / Implementer", email: "a_pilavd@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "18", pid: "23",  name: "Anthony Sawyer", title: "DR Lead / Coordinator / Completer-Finisher", email: "a_sawye@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
                             { id: "19", pid: "18",  name: "Tommy Lavoie", title: "Implementer", email: "t_agnonl@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "20", pid: "21", name: "Mathilde Therrien-Quintal", title: "PM SS / Avionic consultant", email: "m_rrienq@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "21", name: "Jean-Baptiste Waring", title: "PM Lead / Avionics Consultant for TS", email: "j_warin@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "22",   pid: "21", name: "Luca Manolache", title: "PM MRO / Research Assistant", email: "l_manola@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "23",  pid: "21",  name: "Noubar Krikorian", title: "PM DR", email: "n_krik@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
-                            { id: "24",  pid: "21", name: "Zhengyang Xu", title: "PM TS", email: "x_zhengy@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" }
+                            { id: "20", pid: "25", name: "Mathilde Therrien-Quintal", title: "PM SS / Avionic consultant", email: "m_rrienq@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "21", pid: "25", name: "Jean-Baptiste Waring", title: "PM Lead / Avionics Consultant for TS", email: "j_warin@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "22",   pid: "25", name: "Luca Manolache", title: "PM MRO / Research Assistant", email: "l_manola@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "23",  pid: "25",  name: "Noubar Krikorian", title: "PM DR", email: "n_krik@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "24",  pid: "25", name: "Zhengyang Xu", title: "PM TS", email: "x_zhengy@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "25",  pid: "28", name: "Robin Warren", title: "Teaching Assistant (TA)", email: "r_warr@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "26",  pid: "28", name: "Tiago Strobino", title: "Teaching Assistant (TA)", email: "t_strobi@live.concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "27", name: "Amir Jalini", title: "Engineering-in-Residence (EIR)", email: "Amir.Jalini@concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" },
+                            { id: "28", name: "Dr. Jonathan Liscouët, Eng.", title: "Coordinator", email: "Jonathan.liscouet@concordia.ca", img:"https://cdn.balkan.app/shared/1.jpg" }
                                     ]
                     });
                     
