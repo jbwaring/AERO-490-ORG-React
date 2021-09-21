@@ -27,7 +27,7 @@ import React, { Component } from 'react';
                             
                         },
                         nodes: [
-                            { id: "1",  pid:"2", name: "Meray Nessim", title: "Market researcher - South America + Oceania / Document Control", email: "m_nessi@live.concordia.ca", img:"https://www.dropbox.com/sh/3djmzq14g30xcwg/AADXHKcsS82E75IxCEIDd0rXa/1.png?raw=1" },
+            
                             { id: "2", pid: "22",  name: "Dante Raso", title: "MRO Lead / Market researcher - Asia", email: "d_raso@live.concordia.ca", img:"https://www.dropbox.com/sh/3djmzq14g30xcwg/AACBDE4Z_N9jSWHVMIeRkdCka/2.png?raw=1" },
                             { id: "3", pid: "2",  name: "Robert Latif", title: "Market researcher - Europe + Africa / Editor", email: "r_atif@live.concordia.ca", img:"https://www.dropbox.com/sh/3djmzq14g30xcwg/AABYXnP80YelAR1GZCC32yQYa/3.png?raw=1" },
                             { id: "4", pid: "2",  name: "Christina Wong", title: "Market researcher - North America / Formatting specialist and referencing ", email: "w_hrist@live.concordia.ca", img:"https://www.dropbox.com/sh/3djmzq14g30xcwg/AAD-63hMtu0tdtdGuLYxdGJXa/4.png?raw=1" },
