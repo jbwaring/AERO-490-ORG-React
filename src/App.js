@@ -24,8 +24,8 @@ function App() {
                   </div>
       <div className="revision-notes">
       <h3>Version Notes:</h3>
-      <p>Version 1.3.1 <br />
-      Updated organization.<br />
+      <p>Version 1.3.2 <br />
+      Updated organization and new PM Roles.<br />
       Removed one student who switched Capstone.
         </p>
       <a href="mailto:j_warin@live.concordia.ca?subject=Org%20Chart%20Website%20Feedback&body=Version%20Used%3A%0D%0AWhat%20should%20I%20improve%3F%3A" className="link-blue-std" id="feedback-link-bottom">
