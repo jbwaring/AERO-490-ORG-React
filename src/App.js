@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import OrgChart from './mychart';
+import logoDark from './logoDark.svg'
 function App() {
   return (
     <div className="App">
       <div class="header">
-        <img src="https://www.dropbox.com/s/lwz7j9bs39sji5z/medicair_logo_test.svg?raw=1" id="company-logo"/>
+        <img src={logoDark} id="company-logo"/>
         <img src="https://www.dropbox.com/s/yel4bj01fxlfgw0/concordia-logo.svg?raw=1" id="concordia-logo"/>
       </div>
       <div class="check-repair-msg-bar">
